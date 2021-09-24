@@ -1,0 +1,27 @@
+[2021-09-25 02:03:38.219] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-09-25 02:03:40.669] [sharedprocess] [info] Installing extension: ms-python.python
+[2021-09-25 02:03:43.312] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2021-09-25 02:03:43.313] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2021-09-25 02:03:43.314] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2021-09-25 02:03:44.778] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-keymap /home/dark_show/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0
+[2021-09-25 02:03:44.834] [sharedprocess] [info] Extracted extension to /home/dark_show/.vscode/extensions/.04745dad-f012-418e-86e5-650bcd4cbfaf: ms-toolsai.jupyter-keymap
+[2021-09-25 02:03:44.839] [sharedprocess] [info] Renamed to /home/dark_show/.vscode/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[2021-09-25 02:03:44.841] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2021-09-25 02:03:47.570] [sharedprocess] [info] Downloaded extension: ms-python.python /home/dark_show/.config/Code/CachedExtensionVSIXs/ms-python.python-2021.9.1246542782
+[2021-09-25 02:03:48.873] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/dark_show/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-2021.8.2041215044
+[2021-09-25 02:03:49.599] [sharedprocess] [info] Extracted extension to /home/dark_show/.vscode/extensions/.8f3d2ae9-ab06-410e-878c-415dd72d80bb: ms-toolsai.jupyter
+[2021-09-25 02:03:49.610] [sharedprocess] [info] Renamed to /home/dark_show/.vscode/extensions/ms-toolsai.jupyter-2021.8.2041215044
+[2021-09-25 02:03:49.613] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2021-09-25 02:03:50.353] [sharedprocess] [info] Extracted extension to /home/dark_show/.vscode/extensions/.2edd9828-b406-4001-8750-f0e10a071e91: ms-python.python
+[2021-09-25 02:03:50.368] [sharedprocess] [info] Renamed to /home/dark_show/.vscode/extensions/ms-python.python-2021.9.1246542782
+[2021-09-25 02:03:50.371] [sharedprocess] [info] Extracting completed. ms-python.python
+[2021-09-25 02:03:54.390] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/dark_show/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2021.9.3
+[2021-09-25 02:03:56.101] [sharedprocess] [info] Extracted extension to /home/dark_show/.vscode/extensions/.daa364d9-5354-4f9a-8c95-19b65809b437: ms-python.vscode-pylance
+[2021-09-25 02:03:56.110] [sharedprocess] [info] Renamed to /home/dark_show/.vscode/extensions/ms-python.vscode-pylance-2021.9.3
+[2021-09-25 02:03:56.114] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2021-09-25 02:03:56.122] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2021-09-25 02:03:56.122] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2021-09-25 02:03:56.122] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2021-09-25 02:03:56.123] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance
+[2021-09-25 02:03:58.213] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-09-25 02:03:58.214] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.

@@ -1,0 +1,8 @@
+[2021-09-25 02:03:23.763] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-09-25 02:03:24.348] [sharedprocess] [info] Installing extension: ms-ceintl.vscode-language-pack-ru
+[2021-09-25 02:03:25.879] [sharedprocess] [info] Downloaded extension: ms-ceintl.vscode-language-pack-ru /home/dark_show/.config/Code/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-ru-1.60.4
+[2021-09-25 02:03:26.031] [sharedprocess] [info] Extracted extension to /home/dark_show/.vscode/extensions/.00e70583-bf65-46ab-b16f-93a83d534bce: ms-ceintl.vscode-language-pack-ru
+[2021-09-25 02:03:26.036] [sharedprocess] [info] Renamed to /home/dark_show/.vscode/extensions/ms-ceintl.vscode-language-pack-ru-1.60.4
+[2021-09-25 02:03:26.037] [sharedprocess] [info] Extracting completed. ms-ceintl.vscode-language-pack-ru
+[2021-09-25 02:03:26.038] [sharedprocess] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-ru
+[2021-09-25 02:03:26.077] [sharedprocess] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-ru

@@ -1,0 +1,17 @@
+Info 2021-09-25 02:03:56: ZMQ install verified.
+Error 2021-09-25 02:03:56: Jupyter Extension (Error in Failed to update settings.json, method:fixSettingsFile): [EntryNotFound (FileSystemError): Не удалось считать файл "/home/dark_show/.config/Code/User/settings.json" (Error: Не удается решить несуществующий файл "/home/dark_show/.config/Code/User/settings.json")
+	at _handleError (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:160087)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async m.readFile (/home/dark_show/.vscode/extensions/ms-toolsai.jupyter-2021.8.2041215044/out/client/extension.js:90:362224)
+	at async g.fixSettingsFile (/home/dark_show/.vscode/extensions/ms-toolsai.jupyter-2021.8.2041215044/out/client/extension.js:52:320650)
+	at async Promise.all (index 0)
+	at async g.updateSettings (/home/dark_show/.vscode/extensions/ms-toolsai.jupyter-2021.8.2041215044/out/client/extension.js:52:322370)] {
+  code: 'FileNotFound'
+}
+Info 2021-09-25 02:03:59: Shutting down notebooks for 1406bc2e-e8b2-44ab-92a0-8da733869060
+Info 2021-09-25 02:03:59: Disposing HostJupyterExecution e85b7ec1-6d8a-48ba-8c6e-b83374e35c05
+Info 2021-09-25 02:03:59: Disposing super HostJupyterExecution e85b7ec1-6d8a-48ba-8c6e-b83374e35c05
+Info 2021-09-25 02:03:59: Disposing HostJupyterExecution e85b7ec1-6d8a-48ba-8c6e-b83374e35c05
+Info 2021-09-25 02:03:59: Finished disposing HostJupyterExecution  e85b7ec1-6d8a-48ba-8c6e-b83374e35c05
+Info 2021-09-25 02:03:59: Cleaning up server cache e85b7ec1-6d8a-48ba-8c6e-b83374e35c05
+Info 2021-09-25 02:03:59: Finished disposing HostJupyterExecution  e85b7ec1-6d8a-48ba-8c6e-b83374e35c05

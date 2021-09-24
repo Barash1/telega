@@ -1,0 +1,26 @@
+User belongs to experiment group 'jupyterTest'
+User belongs to experiment group 'jupyterEnhancedDataViewer'
+Info 2021-09-25 02:04:11: ZMQ install verified.
+Info 2021-09-25 02:04:40: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+Info 2021-09-25 02:04:40: Process Execution: > /bin/python3 -m pip list
+> /bin/python3 -m pip list
+Info 2021-09-25 02:04:40: Process Execution: > /bin/python3 -c "import jupyter"
+> /bin/python3 -c "import jupyter"
+Info 2021-09-25 02:04:40: Process Execution: > /bin/python3 -c "import jupyter"
+> /bin/python3 -c "import jupyter"
+Info 2021-09-25 02:04:40: Process Execution: > /bin/python3 -c "import notebook"
+> /bin/python3 -c "import notebook"
+Info 2021-09-25 02:04:40: Process Execution: > /bin/python3 -c "import notebook"
+> /bin/python3 -c "import notebook"
+Info 2021-09-25 02:04:40: Process Execution: > /bin/python3 -c "import pip"
+> /bin/python3 -c "import pip"
+Info 2021-09-25 02:04:40: Process Execution: > /bin/python3 -c "import pip"
+> /bin/python3 -c "import pip"
+Info 2021-09-25 02:08:19: Shutting down notebooks for bb66425b-0850-40a4-9607-569e804313e2
+Info 2021-09-25 02:08:19: Disposing HostJupyterExecution 40507b19-119d-4f9d-a725-08e5e03ee591
+Info 2021-09-25 02:08:19: Disposing super HostJupyterExecution 40507b19-119d-4f9d-a725-08e5e03ee591
+Info 2021-09-25 02:08:19: Disposing HostJupyterExecution 40507b19-119d-4f9d-a725-08e5e03ee591
+Info 2021-09-25 02:08:19: Finished disposing HostJupyterExecution  40507b19-119d-4f9d-a725-08e5e03ee591
+Info 2021-09-25 02:08:19: Cleaning up server cache 40507b19-119d-4f9d-a725-08e5e03ee591
+Info 2021-09-25 02:08:19: Finished disposing HostJupyterExecution  40507b19-119d-4f9d-a725-08e5e03ee591

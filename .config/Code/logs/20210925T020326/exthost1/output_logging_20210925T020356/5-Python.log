@@ -1,0 +1,16 @@
+Python interpreter path: /bin/python3
+Starting Pylance language server.
+Error 2021-09-25 02:03:57: Failed to check if file needs to be fixed [EntryNotFound (FileSystemError): Не удалось считать файл "/home/dark_show/.config/Code/User/settings.json" (Error: Не удается решить несуществующий файл "/home/dark_show/.config/Code/User/settings.json")
+	at _handleError (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:94:160087)
+	at processTicksAndRejections (internal/process/task_queues.js:93:5)
+	at async y.readText (/home/dark_show/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:9:314351)
+	at async p.doesFileNeedToBeFixed (/home/dark_show/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:59:823969)
+	at async /home/dark_show/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:59:823096
+	at async Promise.all (index 0)
+	at async p.getFilesToBeFixed (/home/dark_show/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:59:823042)
+	at async p.updateTestSettings (/home/dark_show/.vscode/extensions/ms-python.python-2021.9.1246542782/out/client/extension.js:59:822669)] {
+  code: 'FileNotFound'
+}
+> conda --version
+Error 2021-09-25 02:03:59: Error while running worker[Worker 1]. undefined
+Error 2021-09-25 02:03:59: Error while running worker[Worker 2]. undefined
